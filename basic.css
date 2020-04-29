@@ -2,15 +2,20 @@
 
 body {
     background-color: blueviolet;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
     color: red;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
     font-size: x-large;
 }
+h2 {
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    font-style: italic;
 
+}
 p {
-    color: blue;
-    text-align: center;
+    color: goldenrod;
 }
